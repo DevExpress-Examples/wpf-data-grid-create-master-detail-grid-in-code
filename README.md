@@ -1,4 +1,4 @@
-# Product/Platform - Task
+# WPF Data Grid - Create a Master-Detail Grid in Code
 
 This is the repository template for creating new examples. Describe the solved task here.
 

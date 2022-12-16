@@ -1,6 +1,6 @@
 # WPF Data Grid - Create a Master-Detail Grid in Code
 
-This example demonstrates how to create a master-detail [GridControl](https://docs.devexpress.com/WPF/DevExpress.Xpf.Grid.GridControl) in code-behind.
+This example creates a master-detail [GridControl](https://docs.devexpress.com/WPF/DevExpress.Xpf.Grid.GridControl) in code-behind.
 
 ![image](https://user-images.githubusercontent.com/65009440/208088115-5a34d6fc-944a-4752-8d18-64eca83414b3.png)
 

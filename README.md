@@ -32,7 +32,7 @@ This example creates a master-detail [GridControl](https://docs.devexpress.com/W
 - [WPF Data Grid - Specify Detail Buttons Visibility](https://github.com/DevExpress-Examples/detail-buttons-visibility-e4050)
 - [WPF Data Grid - Select Details Based on the Data in the Master Row](https://github.com/DevExpress-Examples/how-to-use-different-details-depending-on-data-in-gridcontrols-master-row-t590724)
 <!-- feedback -->
-## Does this example address your development requirements/objectives?
+## Does This Example Address Your Development Requirements/Objectives?
 
 [<img src="https://www.devexpress.com/support/examples/i/yes-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=wpf-data-grid-create-master-detail-grid-in-code&~~~was_helpful=yes) [<img src="https://www.devexpress.com/support/examples/i/no-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=wpf-data-grid-create-master-detail-grid-in-code&~~~was_helpful=no)
 
